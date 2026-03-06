@@ -31,7 +31,8 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
 3. Uygulamayı başlatın: `streamlit run uygulama.py`
 <img width="500"<img width="1919" height="812" alt="Ekran görüntüsü 2026-03-06 120944" src="https://github.com/user-attachments/assets/a1cad8c8-f561-413a-b2d6-e141d599bd1b" />
 
-<img width="500" height="812" alt="Ekran görüntüsü 2026-03-06 120944" src="https://github.com/user-attachments/assets/3a7498b2-1cf9-4eee-ac83-708590ce6dba" />
+
+<img width="1919" height="812" alt="Ekran görüntüsü 2026-03-06 121047" src="https://github.com/user-attachments/assets/9689473a-0650-4bb3-b92a-38426b8b816d" />
 
 
 ---
