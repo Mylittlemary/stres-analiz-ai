@@ -30,7 +30,8 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
 2. Gerekli kütüphaneleri kurun: `pip install -r requirements.txt`
 3. Uygulamayı başlatın: `streamlit run uygulama.py`
 <img width="500"<img width="1919" height="812" alt="Ekran görüntüsü 2026-03-06 120944" src="https://github.com/user-attachments/assets/a1cad8c8-f561-413a-b2d6-e141d599bd1b" />
- height="500" alt="Ekran görüntüsü 2026-03-06 121047" src="https://github.com/user-attachments/assets/7753398a-9152-4f7e-9fc2-87d0f7f6ec85" />
+
+<img width="500" height="812" alt="Ekran görüntüsü 2026-03-06 120944" src="https://github.com/user-attachments/assets/3a7498b2-1cf9-4eee-ac83-708590ce6dba" />
 
 
 ---
